@@ -1,2 +1,2 @@
-const data = 'hello';
+const data = "Pan world";
 console.log(data);
